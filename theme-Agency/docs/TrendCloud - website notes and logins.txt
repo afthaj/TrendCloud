@@ -4,11 +4,16 @@
 
 -----------------------------------------------------------------------
 
+-- LK Domain registry login
+
+
+
 -- GoDaddy login
 
 
--- LK Domain registry login
-
+--cPanel login
+l163653pare3@trendclouddigital.com
+Trendcloud@123
 
 -- Gmail login
 
@@ -17,7 +22,8 @@
 
 
 -- FTP login
-
+ftp-main@trendclouddigital.com
+trendcloud123
 
 -- default email
 
