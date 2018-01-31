@@ -1,0 +1,53 @@
+-----------------------------------------------------------------------
+
+-- Logins
+
+-----------------------------------------------------------------------
+
+-- LK Domain registry login
+
+
+
+-- GoDaddy login
+
+
+--cPanel login
+l163653pare3@trendclouddigital.com
+Trendcloud@123
+
+-- Gmail login
+
+
+-- fb login
+
+
+-- FTP login
+ftp-main@trendclouddigital.com
+trendcloud123
+
+-- default email
+contact@trendclouddigital.com
+Trendcloud@123
+
+-----------------------------------------------------------------------
+
+-- Notes
+
+-----------------------------------------------------------------------
+
+-- Site Structure
+- Home
+- Services
+	Social Media Management
+	Graphic & Content Design
+	Web Development
+	Mobile Marketing
+	Email Marketing
+	Online Marketing
+	Promotion Tracking
+	Marketing Support Services
+	Database Marketing Solutions
+- Portfolio
+- Clients
+- Contact
+
