@@ -1,0 +1,47 @@
+-----------------------------------------------------------------------
+
+-- Logins
+
+-----------------------------------------------------------------------
+
+-- GoDaddy login
+
+
+-- LK Domain registry login
+
+
+-- Gmail login
+
+
+-- fb login
+
+
+-- FTP login
+
+
+-- default email
+
+
+
+-----------------------------------------------------------------------
+
+-- Notes
+
+-----------------------------------------------------------------------
+
+-- Site Structure
+- Home
+- Services
+	Social Media Management
+	Graphic & Content Design
+	Web Development
+	Mobile Marketing
+	Email Marketing
+	Online Marketing
+	Promotion Tracking
+	Marketing Support Services
+	Database Marketing Solutions
+- Portfolio
+- Clients
+- Contact
+
